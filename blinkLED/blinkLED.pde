@@ -1,20 +1,20 @@
-/// 
-/// @mainpage	blinkLED 
-/// @details	<#details#>
-/// @n 
-/// @n 
-/// @n @a	Developed with [embedXcode](http://embedXcode.weebly.com)
-/// 
-/// @author	Pat Escalona
-/// @author	__MyCompanyName__
-/// @date	7/22/12 9:18 AM
-/// @version	<#version#>
-/// 
-/// @copyright	© Pat Escalona, 2012
-/// @copyright	CC = BY NC SA
-///
-/// @see	ReadMe.txt for references
-///
+// 
+// @mainpage	blinkLED 
+// @details	<#details#>
+// @n 
+// @n 
+// @n @a	Developed with [embedXcode](http://embedXcode.weebly.com)
+// 
+// @author	Pat Escalona
+// @author	__MyCompanyName__
+// @date	7/22/12 9:18 AM
+// @version	<#version#>
+// 
+// @copyright	© Pat Escalona, 2012
+// @copyright	CC = BY NC SA
+//
+// @see	ReadMe.txt for references
+//
 
 
 // Core library - IDE-based
@@ -74,5 +74,5 @@ void setup() {
 // Add loop code 
 void loop() {
   blink(LED1, 3, 333);
-  delay(1000);    
+  delay(3000);
 }
