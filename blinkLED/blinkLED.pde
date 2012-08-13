@@ -16,6 +16,7 @@
 // @see	ReadMe.txt for references
 //
 //added another comment
+// ONE MORE COMMENT
 
 
 // Core library - IDE-based
